@@ -13,12 +13,7 @@ A Laravel-based application providing:
 - [Tech Stack](#tech-stack)  
 - [Prerequisites](#prerequisites)  
 - [Installation & Setup](#installation--setup)  
-- [Running the Application](#running-the-application)  
-- [Bulk Import via XML](#bulk-import-via-xml)  
-- [Queue & Batch Management](#queue--batch-management)  
-- [Tips & Best Practices](#tips--best-practices)  
-- [Contributing](#contributing)  
-- [License](#license)
+- [Running the Application](#running-the-application) 
 
 ---
 
